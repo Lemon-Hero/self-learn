@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  fill: red;
+}
+
+.fancy {
+  fill: none; /*填充色*/
+  stroke: black; /*描边色*/
+  stroke-width: 3pt; /*描边宽度*/
+}
