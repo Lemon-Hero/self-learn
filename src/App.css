@@ -46,3 +46,14 @@
   stroke: black; /*描边色*/
   stroke-width: 3pt; /*描边宽度*/
 }
+
+#mySvgDom {
+  stroke-width: 5;
+  stroke: #f00;
+  fill: #ff0;
+}
+
+#mySvgDom:hover {
+  stroke: #090;
+  fill: #fff;
+}
